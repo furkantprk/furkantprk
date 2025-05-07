@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**furkantprk/furkantprk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ahmet Furkan Toprak**, a third-year Computer Engineering student at Balıkesir University.  
+I’m particularly interested in **Data Analysis**, **Database Systems**, **Machine Learning**, and **Artificial Intelligence**.  
+I’m continuously working to improve myself in these areas and eager to learn new things.
 
-Here are some ideas to get you started:
+During my second year, I completed an internship where I worked with **Flutter** and developed several projects.  
+I'm open to all kinds of internship and work opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me via the links below:
+
+📧 furkan45toprak@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmet-furkan-toprak-27a1b9260/)
