@@ -13,7 +13,7 @@ I'm **Ahmet Furkan Toprak**, a 🎓 final-year **Computer Engineering** student 
 ---
 
 ## 🛠️ Experience  
-- 📱 **Mobile Development with Flutter** – Completed an internship during my second year, developing multiple mobile projects.  
+- 📱 **Mobile Development with Flutter** – Completed an internship at **Pera Soft** during my second year, developing multiple mobile projects.  
 - 💻 **Full Stack Development** – Recently completed my internship at **Koç Finansman A.Ş.**, working on **Java Spring Boot** (backend) and **React** (frontend) applications.  
 
 ---
