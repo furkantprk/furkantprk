@@ -21,7 +21,7 @@ I'm **Ahmet Furkan Toprak**, a 🎓 recent **Computer Engineering** graduate fro
 ---
 
 ## 🚀 Open to   
-- Cloud Platform Engineering and infrastructure roles
+- Job opportunities
 - Exciting projects to contribute to and learn from  
 
 ---
