@@ -1,6 +1,6 @@
 # 👋 Hello there!  
 
-I'm **Ahmet Furkan Toprak**, a 🎓 senior **Computer Engineering** student at **Balıkesir University**, graduating in July 2026.  
+I'm **Ahmet Furkan Toprak**, a 🎓 recent **Computer Engineering** graduate from **Balıkesir University**.  
 
 💡 **Passionate about:** 
 - ☁️ Cloud Computing & Infrastructure
@@ -14,14 +14,14 @@ I'm **Ahmet Furkan Toprak**, a 🎓 senior **Computer Engineering** student at *
 ---
 
 ## 🛠️ Experience  
-- ☁️ **Cloud Operations Intern** – Currently undertaking a long-term internship at **Turkcell** in Cloud Services Operations, gaining hands-on experience with cloud infrastructure and deep-diving into **VMware** virtualization architectures.
-- 💻 **Full Stack Development** – Recently completed my internship at **Koç Finansman A.Ş.**, working on **Java Spring Boot** (backend) and **React** (frontend) applications.  
-- 📱 **Mobile Development with Flutter** – Completed an internship at **Pera Soft** during my second year, developing multiple mobile projects.  
+- ☁️ **Cloud Operations Intern** – Completed a long-term internship at **Turkcell** in Cloud Services Operations, where I gained hands-on experience with cloud infrastructure and deep-dived into **VMware** virtualization architectures.
+- 💻 **Full Stack Development** – Completed a summer internship at **Koç Finansman A.Ş.**, working on **Java Spring Boot** (backend) and **React** (frontend) applications.  
+- 📱 **Mobile Development with Flutter** – Completed an internship at **Pera Soft**, developing multiple mobile projects.  
 
 ---
 
 ## 🚀 Open to   
-- Job opportunities  
+- Cloud Platform Engineering and infrastructure roles
 - Exciting projects to contribute to and learn from  
 
 ---
